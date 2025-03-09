@@ -1,2 +1,1 @@
-local LocalPlayer = game:GetService("Players").LocalPlayer
-    LocalPlayer:Kick("FAKE SCRIPT join gg/antiv2 to get the real script discord invite copied  | this is to avoid scams")
+
