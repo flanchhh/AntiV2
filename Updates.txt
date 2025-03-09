@@ -1,1 +1,10 @@
 
+local StarterGui = game:GetService("StarterGui")
+
+StarterGui:SetCore("SendNotification", {
+    Title = "Notification",
+    Text = "Prem Bypass by gg.antiv2",
+    Icon = "",
+    Duration = 700
+})
+
